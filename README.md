@@ -1,9 +1,9 @@
 # Bank Customer Churn Prediction Using ANN
 
-![License](https://img.shields.io/github/license/yourusername/Bank-Customer-Churn-Prediction-ANN)
-![Issues](https://img.shields.io/github/issues/yourusername/Bank-Customer-Churn-Prediction-ANN)
-![Stars](https://img.shields.io/github/stars/yourusername/Bank-Customer-Churn-Prediction-ANN)
-![Forks](https://img.shields.io/github/forks/yourusername/Bank-Customer-Churn-Prediction-ANN)
+![License](https://img.shields.io/github/license/veeraprathp/Bank-Customer-Churn-Prediction-ANN)
+![Issues](https://img.shields.io/github/issues/veeraprathp/Bank-Customer-Churn-Prediction-ANN)
+![Stars](https://img.shields.io/github/stars/veeraprathp/Bank-Customer-Churn-Prediction-ANN)
+![Forks](https://img.shields.io/github/forks/veeraprathp/Bank-Customer-Churn-Prediction-ANN)
 
 ## Project Overview
 
@@ -17,27 +17,4 @@ The dataset comprises information on 10,000 bank customers, including the follow
 - **Geography**: Country of residence (France, Germany, Spain)
 - **Gender**: Male or Female
 - **Age**: Age of the customer
-- **Tenure**: Number of years the customer has been with the bank
-- **Balance**: Account balance
-- **NumOfProducts**: Number of bank products the customer is using
-- **HasCrCard**: Indicates if the customer has a credit card (0 or 1)
-- **IsActiveMember**: Indicates if the customer is an active member (0 or 1)
-- **EstimatedSalary**: Annual salary of the customer
-- **Exited**: Indicates if the customer has churned (1) or not (0)
-
-## Model
-
-The ANN model is built using Keras and TensorFlow, featuring the following architecture:
-
-- **Input Layer**: Takes in the features of the dataset
-- **Dense Layer**: Fully connected layer with ReLU activation
-- **Dense Layer**: Fully connected layer with ReLU activation
-- **Output Layer**: Fully connected layer with Sigmoid activation for binary classification
-
-## Results
-
-The model achieves a satisfactory accuracy on the test set. Below is the confusion matrix representing the performance of the model:
-
-[[1578   17]
- [ 316   89]]
-0.8335
+- **Ten
