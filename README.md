@@ -37,4 +37,6 @@ The ANN model is built using Keras and TensorFlow, featuring the following archi
 ## Results
 
 The model achieves a satisfactory accuracy on the test set. Below is the confusion matrix representing the performance of the model:
-
+[[1578   17]
+ [ 316   89]]
+0.8335
